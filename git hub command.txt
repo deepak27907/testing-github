@@ -1,0 +1,21 @@
+$ history
+    1  ls
+    2  exit
+    3  cd Documents/
+    4  mkdir github-2025
+    5  cd github-2025/
+    6  git init
+    7  touch file.html
+    8  vim file.html
+    9  cat file.html
+   10  git add README.md
+   11  git status
+   12  git add .
+   13  git status
+   14  git commit -m "v1"
+   15  git config --global user.email "ashokcomputer.ac@gmail.com"
+   16  git config --global user.name "deepak27907"
+   17  git commit -m "v1"
+   18  git branch -M main
+   19  git remote add origin https://github.com/deepak27907/Testing-github.git
+   20  git push -u origin main
